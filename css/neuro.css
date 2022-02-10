@@ -1,0 +1,33 @@
+body{
+    background: #afd275 !important;
+}
+.container{
+    background-color: #afd275;
+    height: 100vh;
+}
+.element1{
+    margin-top: 100px;
+    margin-left: 50px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+    background-color: #afd275;
+    box-shadow: 12px 12px 16px 0 rgba(0,0,0,0.25),
+        -8px -8px 12px 0 rgba(255,255,255,0.3);
+    padding: 20px;
+}
+.userinput{
+    margin-top: 100px;
+    width: 250px;
+    height: 35px;
+    color: white;
+    font-size: 25px;
+     border-radius: 20px;
+    border: 0px;
+    outline: 0px;
+    padding: 7px;
+    background-color: #afd275;
+     box-shadow: inset 6px 6px 10px 0 rgba(0,0,0,0.2),
+        inset -6px -6px 10px 0 rgba(255,255,255,0.5);
+    
+}
